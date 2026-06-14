@@ -41,9 +41,5 @@ Catch(ArithmeticException | NullPointException e)
    }
 
 Instead of having multiple catch block. we can have a single catch block seperated with difefrent exception by the pipe operator.
-
-
-
-
-
+```
 
